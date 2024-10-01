@@ -17,6 +17,6 @@
 
 **Thoughts**: Good day overall, will strive for better tomorrow!
 
-**Link to work:** [TOP](https://github.com/AyushChakraborty/TOP/tree/main) terminal_basics.txt, git_basics.txt were written/updates today 
-[CS50X](https://github.com/code50/79455254/blob/main/readability/readability.c) code for readability question
+**Link to work:** [TOP](https://github.com/AyushChakraborty/TOP/tree/main) terminal_basics.txt, git_basics.txt were written/updates today, 
+[CS50X](https://github.com/code50/79455254/blob/main/readability/readability.c) code for readability question, 
 [CS50X](https://github.com/code50/79455254/blob/main/substitution/substitution.c) code for substitution question
