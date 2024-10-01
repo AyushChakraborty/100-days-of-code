@@ -8,9 +8,7 @@
 **Thoughts**: A very producitve day in general, but have to speed up a bit from tomorrow, also learning a lot of interesting things!
 
 **Link to work:** [TOP](https://github.com/AyushChakraborty/TOP/tree/main)  web_fundamentals.txt, web_fundamentals_2.txt, terminal_basics.txt were written today
-
 <br></br>
-
 ### Day 1: October 1, 2024
 ##### finshed the git part of TOP, and finshed the problem sets of W2 of CS50X
 
