@@ -1,8 +1,7 @@
 # 100 Days Of Code - Log - [Ayush Chakraborty]
 
 ### Day 0: September 30, 2024 
-##### starting out the challenege today, almost completed the prerequisites part of the foundation course of The Odin Project(will refer to it as TOP from now), just have the 
-##### intro to git part left.
+##### starting out the challenege today, almost completed the prerequisites part of the foundation course of The Odin Project(will refer to it as TOP from now), just have the intro to git part left.
 
 **Today's Progress**: Officially started 100 days of code today, learnt a lot about the internet's structure, all of which I wrote in the files under TOP folder
 
