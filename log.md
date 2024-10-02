@@ -20,3 +20,15 @@
 **Link to work:** [TOP](https://github.com/AyushChakraborty/TOP/tree/main) terminal_basics.txt, git_basics.txt were written/updates today, 
 [CS50X](https://github.com/code50/79455254/blob/main/readability/readability.c) code for readability question, 
 [CS50X](https://github.com/code50/79455254/blob/main/substitution/substitution.c) code for substitution question
+<br></br>
+<br></br>
+### Day 2: October 2, 2024
+##### finsihed week 3 lecture of CS50X course, and finished one problem set of the same
+
+**Today's Progress**: Started by finsihing making notes(locally) of week 3 lecture of CS50X by David Malan. Learnt about the searching and sorting algorithms, and finished one problem set for the week, 2 more remain
+
+**Thoughts**: Could have done more today, productivity was a bit low today, will have to diversify the day from tomorrow as was planned(by including more disciplines of CS into my daily learning).
+
+**Link to work:** [CS50X](https://github.com/code50/79455254/blob/main/sort/answers.txt) finished one problem set of week 3, 
+made notes for the lecture locally on my machine
+
