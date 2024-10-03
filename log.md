@@ -31,4 +31,14 @@
 
 **Link to work:** [CS50X](https://github.com/code50/79455254/blob/main/sort/answers.txt) finished one problem set of week 3, 
 made notes for the lecture locally on my machine
+<br></br>
+<br></br>
+### Day 3: October 3, 2024
+##### started html, css part of TOP, and worked a bit on w3 problem set 2 of CS50X
+
+**Today's Progress**: just started the html, css part within TOP, couldnt do much today due to time constraints and other tasks popping up, also worked a bit on the w3 problem set 2 of CS50X, couldnt get much progress out of it but will not stop the momentum!
+
+**Thought**: The same as yesterday, but have to figure out some more time for these tasks, will try my best
+
+**Link to work:** Was working on the problem set locally on my machine, so no link to it
 
