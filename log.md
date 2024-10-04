@@ -41,4 +41,13 @@ made notes for the lecture locally on my machine
 **Thought**: The same as yesterday, but have to figure out some more time for these tasks, will try my best
 
 **Link to work:** Was working on the problem set locally on my machine, so no link to it
+<br>
+<br>
+### Day 4: October 4, 2024
+##### almost done with html part of TOP
 
+**Today's Progress**: very close to being done with the html part of TOP, will surely be done by tomorrow
+
+**Thoughts**: Not very good productivity wise, as work from college came up, couldnt avoid it, not much coding was done today, will make it up tomorrow
+
+**Link to work:** [TOP notes](https://github.com/AyushChakraborty/TOP/tree/main) updated the html_basics.txt part today
