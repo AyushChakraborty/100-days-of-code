@@ -51,3 +51,14 @@ made notes for the lecture locally on my machine
 **Thoughts**: Not very good productivity wise, as work from college came up, couldnt avoid it, not much coding was done today, will make it up tomorrow
 
 **Link to work:** [TOP notes](https://github.com/AyushChakraborty/TOP/tree/main) updated the html_basics.txt part today
+<br>
+<br>
+### Day 5: October 5, 2024
+##### finsihed html part, made first TOP project
+
+**Today's Progress**: Finished learning the html part of TOP, learnt about good commit messages in git and made a simple recipe website with a landing page and 3 sites which can be followed from it
+
+**Thoughts**: Good day overall, got work done
+
+**link to work:** [TOP](https://github.com/AyushChakraborty/TOP) updated html_basics.txt, git_basics.txt
+[Odin-recipes](https://github.com/AyushChakraborty/odin-recipes) the simple website made today, hosted it on github pages(also learnt about it today)
