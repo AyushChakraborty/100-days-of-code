@@ -60,5 +60,5 @@ made notes for the lecture locally on my machine
 
 **Thoughts**: Good day overall, got work done
 
-**link to work:** [TOP](https://github.com/AyushChakraborty/TOP) updated html_basics.txt, git_basics.txt
-[Odin-recipes](https://github.com/AyushChakraborty/odin-recipes) the simple website made today, hosted it on github pages(also learnt about it today)
+**link to work:** [TOP](https://github.com/AyushChakraborty/TOP) updated html_basics.txt and git_basics.txt, 
+[Odin-recipes](https://github.com/AyushChakraborty/odin-recipes) the simple website made today and hosted it on github pages(also learnt about it today)
