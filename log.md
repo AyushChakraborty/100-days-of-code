@@ -17,8 +17,8 @@
 
 **Thoughts**: Good day overall, will strive for better tomorrow!
 
-**Link to work:** [TOP](https://github.com/AyushChakraborty/TOP/tree/main) terminal_basics.txt, git_basics.txt were written/updates today, 
-[CS50X](https://github.com/code50/79455254/blob/main/readability/readability.c) code for readability question, 
+**Link to work:** [TOP](https://github.com/AyushChakraborty/TOP/tree/main) terminal_basics.txt, git_basics.txt were written/updates today <br>
+[CS50X](https://github.com/code50/79455254/blob/main/readability/readability.c) code for readability question <br>
 [CS50X](https://github.com/code50/79455254/blob/main/substitution/substitution.c) code for substitution question
 <br>
 <br>
@@ -60,5 +60,18 @@ made notes for the lecture locally on my machine
 
 **Thoughts**: Good day overall, got work done
 
-**link to work:** [TOP](https://github.com/AyushChakraborty/TOP) updated html_basics.txt and git_basics.txt, 
+**link to work:** [TOP](https://github.com/AyushChakraborty/TOP) updated html_basics.txt and git_basics.txt <br>
 [Odin-recipes](https://github.com/AyushChakraborty/odin-recipes) the simple website made today and hosted it on github pages(also learnt about it today)
+<br>
+<br>
+### Day 6: October 6, 2024
+##### learnt about convolutions, cool git commands, opened a PR to a public repo
+
+**Today's Progress**: Started the day by learning about convolutions from 3B1B(epic channel), then learnt more about git, and wrote a (15,11) hamming code generator for TheAlgorithms repo, worked on it a lot, and revised the theory for hamming codes this way, also created my first PR! waiting for it to be accepted now! Also beautified my github profile a bit
+
+**Thoughts**: Good, productive day overall, got work done
+
+**Link to work:** [Hamming code generator](https://github.com/AyushChakraborty/TheAlgorithms/blob/branch1/bit_manipulation/hamming_code_generator.py) <br>
+[fresh look of github page](https://github.com/AyushChakraborty)
+<br>
+<br>
