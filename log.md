@@ -75,3 +75,13 @@ made notes for the lecture locally on my machine
 [fresh look of github page](https://github.com/AyushChakraborty)
 <br>
 <br>
+### Day 7: October 7, 2024
+##### continuing CSS from TOP, finsihed some of its assignments
+
+**Today;s Progress**: Did two lessons under CSS from TOP, solved a few assignment qs related to it
+
+**Thoughts**: Was a decent day in terms of productivity
+
+**Link to work:** [CSS assgn](https://github.com/AyushChakraborty/TOP-css-exercises/tree/main/foundations) check the folder intro-to-css and cascase/01-cascade-fix to see changes made by me
+<br>
+<br>
