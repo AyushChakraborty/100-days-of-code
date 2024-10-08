@@ -78,10 +78,19 @@ made notes for the lecture locally on my machine
 ### Day 7: October 7, 2024
 ##### continuing CSS from TOP, finsihed some of its assignments
 
-**Today;s Progress**: Did two lessons under CSS from TOP, solved a few assignment qs related to it
+**Today's Progress**: Did two lessons under CSS from TOP, solved a few assignment qs related to it
 
 **Thoughts**: Was a decent day in terms of productivity
 
 **Link to work:** [CSS assgn](https://github.com/AyushChakraborty/TOP-css-exercises/tree/main/foundations) check the folder intro-to-css and cascase/01-cascade-fix to see changes made by me
 <br>
 <br>
+### Day 8: October 8, 2024
+##### worked on contributing to open source repo, started android dev course
+
+**Today's Progress**: Worked on adding some more changed to the new .py file that I'm trying to add to TheAlgorithms repo, related to hamming code generators. Then i started learning from android dev course on udemy. Also did one of the css exercises from TOP
+
+**Thoughts**: Was a decent day productivity wise
+
+**Link to work:** most of the things were done locally on my machine today<br>
+[my code that is in PR for now](https://github.com/AyushChakraborty/TheAlgorithms/blob/branch1/bit_manipulation/hamming_code_generator.py)
