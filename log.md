@@ -94,3 +94,17 @@ made notes for the lecture locally on my machine
 
 **Link to work:** most of the things were done locally on my machine today<br>
 [my code that is in PR for now](https://github.com/AyushChakraborty/TheAlgorithms/blob/branch1/bit_manipulation/hamming_code_generator.py)
+<br>
+<br>
+### Day 9: October 9, 2024
+##### worked on the odin-recipes website, worked on the PR that I created
+
+**Today's Progress**: Worked a bit more on fixing the hamming_code_generator that I wrote so that the PR can be merged, also worked further on the odin-recipes site where I added more css components and some js components too. Also took some notes from TOP css part
+
+**Thougths**: Was a good day productivity wise
+
+**Link to work:** [hamming_code_generator after modifications](https://github.com/AyushChakraborty/TheAlgorithms/blob/branch1/bit_manipulation/hamming_code_generator.py)<br>
+[odin-recipes site](https://ayushchakraborty.github.io/odin-recipes/)
+[CSS notes from TOP](https://github.com/AyushChakraborty/TOP/blob/main/css_basics.txt)
+<br>
+<br>
