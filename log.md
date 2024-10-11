@@ -108,3 +108,23 @@ made notes for the lecture locally on my machine
 [CSS notes from TOP](https://github.com/AyushChakraborty/TOP/blob/main/css_basics.txt)
 <br>
 <br>
+### Day 10: October 10, 2024
+##### Could not work much today, focused on work assigned by college
+
+**Today's Progress**: wrote some css notes on cascading, worked on the PR to make it more efficient
+
+**Thoughts**: Not a very productive day, but will improve
+
+**Link to work:** [CSS notes](https://github.com/AyushChakraborty/TOP/blob/main/css_basics.txt)
+<br>
+<br>
+### Day 11: October 11, 2024
+##### revised some DSA concepts
+
+**Today's Progress**: revised some DSA concepts like linked lists, stacks, and made notes and wrote corresponding codes for it, apart from that didnt do much, but I will do more tomorrow
+
+**Thouts**: Not a very good day productivity wise, hope to strive for better tomorrow
+
+**Link to work:** made notes on my book, and wrote the codes locally
+<br>
+<br>
