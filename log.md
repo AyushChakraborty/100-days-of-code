@@ -128,3 +128,13 @@ made notes for the lecture locally on my machine
 **Link to work:** made notes on my book, and wrote the codes locally
 <br>
 <br>
+### Day 12: October 12, 2024
+##### implemented stacks and queues of different types
+
+**Today's Progress**: Learnt the theory behind statically implemented stacks, simple queues, dequeues, circular queues and implemented associated code for it
+
+**Thoughts**: Good enough day, have to improve still
+
+**Link to work:** made notes on my book, wrote codes locally
+<br>
+<br>
