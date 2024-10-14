@@ -123,7 +123,7 @@ made notes for the lecture locally on my machine
 
 **Today's Progress**: revised some DSA concepts like linked lists, stacks, and made notes and wrote corresponding codes for it, apart from that didnt do much, but I will do more tomorrow
 
-**Thouts**: Not a very good day productivity wise, hope to strive for better tomorrow
+**Thoughts**: Not a very good day productivity wise, hope to strive for better tomorrow
 
 **Link to work:** made notes on my book, and wrote the codes locally
 <br>
@@ -132,9 +132,23 @@ made notes for the lecture locally on my machine
 ##### implemented stacks and queues of different types
 
 **Today's Progress**: Learnt the theory behind statically implemented stacks, simple queues, dequeues, circular queues and implemented associated code for it
+<br>
+<br>
+### Day 13: October 13, 2024
+##### learnt more about linked lists, explored some c++ for later use, continued android dev course 
 
-**Thoughts**: Good enough day, have to improve still
+**Today's Progress**: Learnt more about dynamic implementaion of queues and stacks and explored some c++, learnt about how to operate android studio better 
 
-**Link to work:** made notes on my book, wrote codes locally
+**Thoughts**: Good enough day
+**Link to work:** all on local machine
+<br>
+<br>
+### Day 14: October 14, 2024
+##### learnt about priority queues, did more of the android dev course
+
+**Today's Progress**: did the aforementioned things, progressed a little today
+
+**Thoughts**: Good enough day
+**Link to work:** all on local machine
 <br>
 <br>
