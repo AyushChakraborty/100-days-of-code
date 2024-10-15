@@ -152,3 +152,12 @@ made notes for the lecture locally on my machine
 **Link to work:** all on local machine
 <br>
 <br>
+### Day 15: October 15, 2024
+##### made a rudimentart android app using kotlin, started Data science from scratch book
+
+**Today's Progress**: did the aforementioned things, where the app involved me dealing with xml files, kotlin files, overall progressed a good bit today
+
+**Thoughts**: It was a productive enough day
+**Link to work:** all on local machine
+<br>
+<br>
