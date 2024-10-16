@@ -153,9 +153,18 @@ made notes for the lecture locally on my machine
 <br>
 <br>
 ### Day 15: October 15, 2024
-##### made a rudimentart android app using kotlin, started Data science from scratch book
+##### made a rudimentary android app using kotlin, started Data science from scratch book
 
 **Today's Progress**: did the aforementioned things, where the app involved me dealing with xml files, kotlin files, overall progressed a good bit today
+
+**Thoughts**: It was a productive enough day
+**Link to work:** all on local machine
+<br>
+<br>
+### Day 16: October 16, 2024
+##### finished two chapters from the DSFS book, and solved a leetcode q
+
+**Today's Progress**: completed the first two chapters from the DSFS book, made its notes and also completed reversing LL question from leetcode, this way im starting the journey to conplete Linked list questions from leetcode
 
 **Thoughts**: It was a productive enough day
 **Link to work:** all on local machine
