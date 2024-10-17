@@ -170,3 +170,12 @@ made notes for the lecture locally on my machine
 **Link to work:** all on local machine
 <br>
 <br>
+### Day 17: October 17, 2024
+##### solved part of a leetcode q, did some more TOP chapters
+
+**Today's Progress**: completed some part of the logic pertaining to merging linked lists question on leetcode and started the chapter of inspection in TOP
+
+**Thoughts**: Good enough day productivity wise
+**Link to work:** all on local machine
+<br>
+<br>
