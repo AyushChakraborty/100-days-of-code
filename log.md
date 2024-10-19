@@ -184,7 +184,7 @@ made notes for the lecture locally on my machine
 
 **Today's Progress**: participated in a hackathon(hacknight by ACM) where I successfully commited 2 PRs 
 
-**Thoughts**: Good day productivity wise
+**Thoughts**: Good day productivity wise<br>
 **Link to work:** [py-typer](https://github.com/AyushChakraborty/py-typer/blob/main/src/main.py)<br>
 [allocator](https://github.com/AyushChakraborty/cgc/blob/main/src/allocator.c)
 <br>
