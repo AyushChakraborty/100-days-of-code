@@ -179,3 +179,19 @@ made notes for the lecture locally on my machine
 **Link to work:** all on local machine
 <br>
 <br>
+### Day 18: October 18, 2024
+##### participated in a hackathon
+
+**Today's Progress**: participated in a hackathon(hacknight by ACM) where I successfully commited 2 PRs 
+
+**Thoughts**: Good day productivity wise
+**Link to work:** [py-typer](https://github.com/AyushChakraborty/py-typer/blob/main/src/main.py)<br>
+[allocator](https://github.com/AyushChakraborty/cgc/blob/main/src/allocator.c)
+<br>
+<br>
+### Day 19: October 19, 2024
+##### a rest day
+**Today's Progress**: a good rest day after the overnight hackathon! Will add one more day by the end of the challenge
+<br>
+<br>
+
