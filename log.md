@@ -194,4 +194,14 @@ made notes for the lecture locally on my machine
 **Today's Progress**: a good rest day after the overnight hackathon! Will add one more day by the end of the challenge
 <br>
 <br>
+### Day 20: October 20, 2024
+##### learnt about computer architechtures
+
+**Today's Progress**: learnt about how CPU works in unison with memory and IO as a part of a course taken in college, did only this, will resume doing all other tasks from tomorror
+
+**Thoughts**: Okayish day productivity wise<br>
+**Link to work:** done locally
+<br>
+<br>
+
 
