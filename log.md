@@ -203,5 +203,20 @@ made notes for the lecture locally on my machine
 **Link to work:** done locally
 <br>
 <br>
+### Day 21: October 21, 2024
+##### not much done today due to college work
+**Today's Progress**: couldnt do much due to college work, will have to do better, productivity has gone down lately
+**Thought**: Have to be more disciplined 
+<br>
+<br>
+### Day 22: October 2, 2024
+##### did some CS50X
+
+**Today's Progress**: was able to solve one problem set of CS50X from week 3
+
+**Thoughts**: Not a very good day, could have done more <br>
+**Link to work:** [plurality](https://github.com/code50/79455254/blob/main/plurality/plurality.c)
+<br>
+<br>
 
 
