@@ -209,13 +209,38 @@ made notes for the lecture locally on my machine
 **Thought**: Have to be more disciplined 
 <br>
 <br>
-### Day 22: October 2, 2024
+### Day 22: October 22, 2024
 ##### did some CS50X
 
 **Today's Progress**: was able to solve one problem set of CS50X from week 3
 
 **Thoughts**: Not a very good day, could have done more <br>
 **Link to work:** [plurality](https://github.com/code50/79455254/blob/main/plurality/plurality.c)
+<br>
+<br>
+### Day 23: October 23, 2024
+##### did some CS50X, TOP
+
+**Today's Progress**: on my way to solving the third problem from week 3 of cs50, and did some more TOP 
+
+**Thoughts**: Good enough day <br>
+**Link to work:** [notes](https://github.com/AyushChakraborty/TOP/blob/main/css_basics.txt)
+<br>
+<br>
+### Day 24: October 24, 2024
+##### started zero to hero series by Andrej Karapathy
+
+**Today's Progress**: on lecture one, learning backpropagation implementation
+**Thoughts**: Good enough day <br>
+**Link to work:** locally done
+<br>
+<br>
+### Day 25: October 25, 2024
+##### continuing zero to hero series, learnt about react from TOP
+
+**Today's Progress**: completing lecture 1, and learnt some basics of react from TOP for a project
+**Thoughts**: Good enough day <br>
+**Link to work:** locally done
 <br>
 <br>
 
