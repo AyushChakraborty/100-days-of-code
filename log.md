@@ -231,6 +231,7 @@ made notes for the lecture locally on my machine
 ##### started zero to hero series by Andrej Karapathy
 
 **Today's Progress**: on lecture one, learning backpropagation implementation
+
 **Thoughts**: Good enough day <br>
 **Link to work:** locally done
 <br>
@@ -239,6 +240,7 @@ made notes for the lecture locally on my machine
 ##### continuing zero to hero series, learnt about react from TOP
 
 **Today's Progress**: completing lecture 1, and learnt some basics of react from TOP for a project
+
 **Thoughts**: Good enough day <br>
 **Link to work:** locally done
 <br>
@@ -247,6 +249,7 @@ made notes for the lecture locally on my machine
 ##### continuing zero to hero series
 
 **Today's Progress**: completing lecture 1, learning to implement backprop from scratch
+
 **Thoughts**: Good enough day <br>
 **Link to work:** [pvt repo for codes from this series](https://github.com/AyushChakraborty/NN_zero_to_hero)
 <br>
