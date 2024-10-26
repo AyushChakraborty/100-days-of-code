@@ -243,5 +243,12 @@ made notes for the lecture locally on my machine
 **Link to work:** locally done
 <br>
 <br>
+### Day 26: October 26, 2024
+##### continuing zero to hero series
 
+**Today's Progress**: completing lecture 1, learning to implement backprop from scratch
+**Thoughts**: Good enough day <br>
+**Link to work:** [pvt repo for codes from this series](https://github.com/AyushChakraborty/NN_zero_to_hero)
+<br>
+<br>
 
