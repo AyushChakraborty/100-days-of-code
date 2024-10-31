@@ -254,4 +254,48 @@ made notes for the lecture locally on my machine
 **Link to work:** [pvt repo for codes from this series](https://github.com/AyushChakraborty/NN_zero_to_hero)
 <br>
 <br>
+### Day 27: October 27, 2024
+##### continuing zero to hero series, started learning about trees and computer architecture(as a part of college course)
+
+**Today's Progress**: the main focus for today was learning about computer architectures, and the other tasks were also done 
+
+**Thoughts**: Good enough day <br>
+**Link to work:** all work done locally
+<br>
+<br>
+### Day 28: October 28, 2024
+##### continued learning about computer architectures as a part of college course, started building the react app as a part of college project
+
+**Today's Progress**: the main focus of today was building a rough version of the movie booking website that is needed for this semesters final project, used react for it and implemented some good features
+
+**Thoughts**: Good enough day in terms of productivity<br>
+**Link to work:** [my part of the work](https://github.com/AyushChakraborty/myshows)
+<br>
+<br>
+### Day 29: October 29, 2024
+##### built some more things related to the react app, did some more of zero to hero NN series
+
+**Today's Progress**: fleshed out some more things related to the site, and these can be seen in the commit history of my fork, after today, I will start to contribute to the main repo itself which belongs to my teammate
+
+**Thoughts**: Good enough day <br>
+**Link to work:** [my part of the work](https://github.com/AyushChakraborty/myshows)
+<br>
+<br>
+### Day 30: October 30, 2024
+##### started learning about trees as a part of course
+
+**Today's Progress**: learnt and coded all the fundamentals related to trees, specifially BST, and all its operations, traversal methods
+
+**Thoughts**: very good day, learnt a lot <br>
+**Link to work:** all work done locally
+<br>
+<br>
+### Day 31: October 31, 2024
+##### continued learning about trees as a part of course
+
+**Today's Progress**: learnt and coded all the things realted to BST, threaded BST
+**Thoughts**:good day, learnt a lot <br>
+**Link to work:** all work done locally
+<br>
+<br>
 
