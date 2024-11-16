@@ -298,4 +298,15 @@ made notes for the lecture locally on my machine
 **Link to work:** all work done locally
 <br>
 <br>
+### Day 32: November 1, 2024
+##### continued learning about tress and processor arch as a part of college course
+**Today's Progress**: good enough progress in the course
+**Thoughts**: good enough day
+**Link to work:** all work done locally
 
+### Days 33-49: November 2-16, 2024
+##### skipped logging for a few days, frankly forgot about it for this span, but will log regularly from now
+**Progress**: finished a lot of my course part which was my main focus for this span of time, also worked on a variety of small projects ranging from full stack to verilog, some of them are local but the ones which are not(like the full stack proj) will be linked below. I had to halt doing the courses i was doing due to immediate work from college but I will resume it from now. I also logged all my CS50X work locally since it might get reset this Jan, and I aim to finish it by Feb. Same goes for all the other courses im following, Feb is the deadline and I will finish it by then.
+**link to work:**[full stack group project](https://github.com/g-anupam/myshows)
+
+### Day 50: November 17, 2024
